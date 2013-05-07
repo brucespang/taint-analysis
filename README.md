@@ -1,1 +1,1 @@
-# Static Taint Analysis for Android Apps
+# Static Taint Analysis
